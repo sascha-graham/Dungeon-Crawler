@@ -1,0 +1,15 @@
+.root {
+     -fx-background-image: url("/brick_brown_0.png");
+}
+
+#title-text {
+	-fx-font-size: 48px;
+   	-fx-font-family: "Impact";
+   	-fx-fill: #ffffff;
+   	-fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0 , 0 , 2 );
+}
+
+#menu-title {
+	-fx-font-size: 24px;
+	-fx-font-family: "Impact";
+}

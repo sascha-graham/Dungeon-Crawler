@@ -1,0 +1,13 @@
+
+
+#die-text {
+	-fx-font-size: 48px;
+   	-fx-font-family: "Impact";
+   	-fx-fill: #ffffff;
+   	-fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0 , 0 , 2 );
+}
+
+#menu-btn {
+	-fx-padding: 25;
+	-fx-alignment: center;
+}
