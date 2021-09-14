@@ -1,0 +1,9 @@
+.root {
+	
+}
+
+#inv {
+	-fx-font: 20px "Impact";
+    -fx-padding: 25;
+    -fx-background-color: #E8E8EA;
+}
